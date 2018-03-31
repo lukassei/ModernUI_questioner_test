@@ -1,0 +1,4 @@
+﻿dodělat vyhodnocení:
+- text uspěl/neuspěl
+- seznam otázek
+- odeslat úspěšnost do grafu
